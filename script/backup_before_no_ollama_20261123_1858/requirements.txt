@@ -1,0 +1,10 @@
+python-dotenv
+openpyxl
+pydantic
+pdf2image
+pillow
+requests
+rapidfuzz
+
+playwright
+pymupdf

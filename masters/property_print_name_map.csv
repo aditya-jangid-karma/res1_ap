@@ -1,0 +1,131 @@
+print_name_on_invoice,full_name_mapped,code,source
+5837 fisher road,Heather Hills,,masters/property_aliases.csv
+fisher road,Heather Hills,,masters/property_aliases.csv
+1930 windsor avenue,New Shiloh Family Apartments,,masters/property_aliases.csv
+windsor avenue,New Shiloh Family Apartments,,masters/property_aliases.csv
+2400 41st street northwest,Beecher House Condominium,,masters/property_aliases.csv
+33 k street nw,Legacy Temple Courts,,masters/property_aliases.csv
+Howard County Scattered,Bridges As observed in S S & R invoices Invoice,,masters/property_aliases.csv
+Potomac Senior I & II,Potomac Senior I Property Managers will Rectify if they want to do so,,masters/property_aliases.csv
+Woodlawn Park Apts,Gardens of Gaithersburg Company name was changed,,masters/property_aliases.csv
+425 North Frederick,Gardens of Gaithersburg Company name was changed,,masters/property_aliases.csv
+North Frederick Apartments,Gardens of Gaithersburg Company name was changed,,masters/property_aliases.csv
+Residences at LDCRC Apts,Day Resourse Center - 524 To be Indexed with Day Resource Center - 524,,masters/property_aliases.csv
+Leola Dorsey,Day Resourse Center - 524 To be Indexed with Day Resource Center - 524,,masters/property_aliases.csv
+3910 Georgia Ave,3Tree Flats - 3910 To be indexed with 3 Tree Flats - 3910,,masters/property_aliases.csv
+Henson Creek Manor,Woodland Creek - 538 As previous Invoice Indexed by Alex,,masters/property_aliases.csv
+Stein Building/Mozkowits,Homecrest Stein Building & Mozkowits Invoice to be indexed with Homecrest,,masters/property_aliases.csv
+Knowles Manor Apts,Silver Creek,,masters/property_aliases.csv
+Minnesota Ave,Allen House This address is for Allen House,,masters/property_aliases.csv
+Episcopal Church Home,Friendship Terrace,,masters/property_aliases.csv
+"MHP TPP, LLC",Crossroads at flower,,masters/property_aliases.csv
+"MHP Maple Towers, LLC",7610 Maple,,masters/property_aliases.csv
+MHP Landings Edge,Amherst  Square Apartment,,masters/property_aliases.csv
+MHP Flower-Maple LLC,Gilbert Highlands,,masters/property_aliases.csv
+Friends Non Profit Housing INC,Friendly Gardens,,masters/property_aliases.csv
+"Jessup, Maryland 20794",Day resource center,,masters/property_aliases.csv
+Parkside Senior Housing,Victory Square,,masters/property_aliases.csv
+Worthington Wood,Unity Place,,masters/property_aliases.csv
+LL Housing Limited Liability Company,Laurel Lakes,,masters/property_aliases.csv
+Shepherd Park Owner LLC,Beech Tree Index to Beech Tree,,masters/property_aliases.csv
+The stanton Glenn,Hillstone apartments,,masters/property_aliases.csv
+Knowles Manor,Silver Creek,,masters/property_aliases.csv
+Momentum General Partners LLC,Momentum,,masters/property_aliases.csv
+Fredericksburg Housing Associates II LP - A & T,Mill Park Terrace,,masters/property_aliases.csv
+Bowling Green Apts LP,Royal Court,,masters/property_aliases.csv
+Bon Secours Hollins Terrace Apartments,Bon Secours Apartments,,masters/property_aliases.csv
+"5220 YORK RD, BALTIMORE, MD 21212-4250 USA",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"The Maples (Res1), 101 Wesley Dr, La Plata MD 20646-4328",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+RESIDENTIAL ONE,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"31 W PATRICK ST, FREDERICK, MD 21701-5553",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3000 Towanda Ave *PS, Baltimore, MD 21215",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"5833 FISHER RD # 103, TEMPLE HILLS MD 20748",Heather Hills,638,invoices.xlsx (Property Status READ_OK)
+FORT WASHINGTON MANOR,Fort Washington Manor,800,invoices.xlsx (Property Status READ_OK)
+"10800 INDIAN HEAD HWY, FORT WASHINGTON, MD 20744-4043",Fort Washington Manor,800,invoices.xlsx (Property Status READ_OK)
+PADDINGTON SQUARE APARTMENTS,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"8800 LANIER DR, SILVER SPRING, MD 20910-2304",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Victory Court,Victory Court,598,invoices.xlsx (Property Status READ_OK)
+"209 MONROE ST, ROCKVILLE, MD 20850",Victory Court,598,invoices.xlsx (Property Status READ_OK)
+DIAMOND SQUARE APARTMENTS,DIAMOND SQUARE APARTMENTS,,invoices.xlsx (Property Status READ_OK)
+Royal Courts Apartments,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3719 4th St SE, Washington DC 20032 USA",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"425 N FREDERICK AVE/ RES 1, 425 N FREDERICK AVE, GAITHERSBURG, MD 20877",Gardens of Gaithersburg Company name was changed,,invoices.xlsx (Property Status READ_OK)
+3713-C 202-F,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"101 Wesley Drive, Laplata, MD 20646",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3450 EADS ST NORTH EAST, WASHINGTON, DC, 20019-1427",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"Bradley Crossing LLC, 4740 Bradley Blvd Ofc, Chevy Chase MD 20815-6346",Bradley Crossing LLC,499-922,invoices.xlsx (Property Status READ_OK)
+2305-221 Shores Field Rd,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"Liberty Village, C/O Residential One, Baltimore, MD 21215",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Friendship Terrace,Friendship Terrace,550,invoices.xlsx (Property Status READ_OK)
+"Friendship Terrace Apartm
+4201 Butterworth Place NW
+Washington, DC 20016",Friendship Terrace,550,invoices.xlsx (Property Status READ_OK)
+Residential One - Worthington Woods,Residential One - Worthington Woods,,invoices.xlsx (Property Status READ_OK)
+Stein Building,Homecrest Stein Building & Mozkowits Invoice to be indexed with Homecrest,,invoices.xlsx (Property Status READ_OK)
+"Stein Building, 14508 Homecrest Road, Silver Spring, MD 20906",Homecrest Stein Building & Mozkowits Invoice to be indexed with Homecrest,,invoices.xlsx (Property Status READ_OK)
+"PAXTON APARTMENTS C/O RESIDENTIAL ONE, WASHINGTON, DC 20002","PAXTON APARTMENTS C/O RESIDENTIAL ONE, WASHINGTON, DC 20002",,invoices.xlsx (Property Status READ_OK)
+Moskowitz Building,Homecrest,541,invoices.xlsx (Property Status READ_OK)
+"Moskowitz Building, 14510 Homecrest Road, Silver Spring, MD 20906",Homecrest,541,invoices.xlsx (Property Status READ_OK)
+Edwards Building,Homecrest,541,invoices.xlsx (Property Status READ_OK)
+"Edwards Building, 14514 Homecrest Road, Silver Spring, MD 20906",Homecrest,541,invoices.xlsx (Property Status READ_OK)
+"2 N SMALLWOOD ST, BALTIMORE, MD 21223-1511",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3747 DONNELL DR # 102, FORESTVILLE, MD 20747-3924",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Friendly Garden Apartments,Friendly Garden Apartments,,invoices.xlsx (Property Status READ_OK)
+Battery Lane,Battery Lane,499-928,invoices.xlsx (Property Status READ_OK)
+Hillstone Apartments,Hillstone Apartments,634,invoices.xlsx (Property Status READ_OK)
+GOVAN'S MANOR APARTMENTS,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"GOVAN'S MANOR APARTMENTS, 5220 YORK ROAD - F/A, SPR, FPUMP, BALTIMORE, MD 21212",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"4419 3rd St SE, Washington, DC 20032",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+AUBURN MANOR APARTMENTS,Auburn Manor Apartments,6821,invoices.xlsx (Property Status READ_OK)
+BLDG 8600,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"11730 BALTIMORE AVENUE, BELTSVILLE, MD 20705-0000",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Wayland Village Senior Apartments,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3020 GARRISON BLVD., BALTIMORE, MD 21216",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+WALDEN COMMONS,Walden Commons,636,invoices.xlsx (Property Status READ_OK)
+"1336 Missouri Ave NW, Washington, DC 20011-1838",Walden Commons,636,invoices.xlsx (Property Status READ_OK)
+Savannah Heights Apartments,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"251 Savannah St SE, Washington DC 20032 USA",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Anytown Property,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"123 Main St, Suite 456, Anytown, CA 90210",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+The Glen,Barclay One Associates LP,439-746,invoices.xlsx (Property Status READ_OK)
+"14000 Georgia Ave, Aspen Hill, MD 20906",Barclay One Associates LP,439-746,invoices.xlsx (Property Status READ_OK)
+Victory Square Apartments,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"Victory Square Apartments-C/O Residential One, 600 Barnes Street, NE c/o Residential One, Washington, DC 20019 US",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Bon Secours Liberty Village,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3000 Towanda Ave, Baltimore, MD 21215",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Solstice Apartments,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3534 E Capitol St NE, Washington, DC 20019",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+3Tree Flats,3Tree Flats,3910,invoices.xlsx (Property Status READ_OK)
+"3Tree Flats, 3910 Georgia Avenue NW, Washington, DC 20011",3Tree Flats,3910,invoices.xlsx (Property Status READ_OK)
+"Towers,7667 Maple Ave,1107, Tacoma Park MD 20912",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Allen House Senior Apartments MAIN,Allen House This address is for Allen House,,invoices.xlsx (Property Status READ_OK)
+"3760 Minnesota Ave, NE, Washington, DC 20019",Allen House This address is for Allen House,,invoices.xlsx (Property Status READ_OK)
+RESIDENTIAL ONE,Legacy Temple Courts,,invoices.xlsx (Property Status READ_OK)
+"33 K STREET, NW, Washington, DC 20001",Legacy Temple Courts,,invoices.xlsx (Property Status READ_OK)
+Beecher House Condo,Beecher House Condominium,,invoices.xlsx (Property Status READ_OK)
+"Beecher House Condominium, 2400 41st Street Northwest, Washington, DC 20007 USA",Beecher House Condominium,,invoices.xlsx (Property Status READ_OK)
+"11 Hundred Apartments - Residential One, 1100 eastern Ave NE, Washington, DC 20019",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"3 Tree Flats, 3910 Georgia Ave NW, Ofc, Washington DC 20011-5883",3Tree Flats - 3910 To be indexed with 3 Tree Flats - 3910,,invoices.xlsx (Property Status READ_OK)
+Parkview Manor Apts,Parkview Manor,537,invoices.xlsx (Property Status READ_OK)
+"Parkview Manor Apts
+5042 38th Ave, Ofc
+Hyattsville MD 20782-3923",Parkview Manor,537,invoices.xlsx (Property Status READ_OK)
+Victory Haven Senior Apartments,Victory Haven Senior Apartments,,invoices.xlsx (Property Status READ_OK)
+Takoma Landing Apts. CHILL/CT,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"780 Fairview Avenue, Takoma Park, MD 20912",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Takoma Landing Apts. BOILERS,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Royal Courts,Royal Courts,3719,invoices.xlsx (Property Status READ_OK)
+7058 SPRING PL NW WASHINGTON DC 20012,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Hillstone Apartments – R1,Hillstone Apartments – R1,,invoices.xlsx (Property Status READ_OK)
+University Manor Apts,University Manor Apts,,invoices.xlsx (Property Status READ_OK)
+"University Manor Apts
+820 University Blvd E, Ofc
+Silver Spring MD 20903-2935",University Manor Apts,,invoices.xlsx (Property Status READ_OK)
+"1336 Missouri Ave NW, Washington, DC 20011-1838",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+Pembridge,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"2315 Blueridge Ave, Wheaton MD 20902",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"6821 Riverdale Road #D2, Riverdale, MD 20737",Auburn Manor Apartments,6821,invoices.xlsx (Property Status READ_OK)
+2138 W BALTIMORE ST,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"1808 W BALTIMORE ST, PARTNERSHIP",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+1845 W BALTIMORE ST,Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)
+"1917 W BALTIMORE ST, LIMITED PARTNERSHIP, Message Center",Paddington Square,919-200,invoices.xlsx (Property Status READ_OK)

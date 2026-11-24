@@ -1,0 +1,13 @@
+python-dotenv
+openpyxl
+pydantic
+pdf2image
+pillow
+requests
+rapidfuzz
+
+playwright
+pymupdf
+# local invoice reading (script 1) -- no Ollama
+rapidocr>=3.0
+onnxruntime
